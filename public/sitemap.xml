@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://goldcode.pages.dev/</loc>
+    <lastmod>2024-05-25T15:29:38-07:00</lastmod>
+  </url><url>
+    <loc>https://goldcode.pages.dev/posts/</loc>
+    <lastmod>2024-05-25T15:29:38-07:00</lastmod>
+  </url><url>
+    <loc>https://goldcode.pages.dev/categories/</loc>
+  </url><url>
+    <loc>https://goldcode.pages.dev/tags/</loc>
+  </url>
+</urlset>

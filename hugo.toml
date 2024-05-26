@@ -1,0 +1,4 @@
+baseURL = 'https://goldcode.pages.dev/'
+languageCode = 'en-us'
+title = 'Goldcode.com'
+theme = 'ananke'
